@@ -10,8 +10,8 @@ interface SEOProps {
 export default function SEO({
   title = 'Developer DAO Ventures - Empowering Web3 Innovation',
   description = 'Developer DAO Ventures partners with visionary founders to push their products to the next level. We provide our network of developers, expertise, and resources to help your startup succeed.',
-  canonical = 'https://developerdao.ventures',
-  ogImage = '/logo.png',
+  canonical = 'https://ventures.developerdao.com',
+  ogImage = '/dd-ventures-open-graph-image.png',
 }: SEOProps) {
   return (
     <Head>
