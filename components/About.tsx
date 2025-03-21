@@ -5,7 +5,7 @@ import Link from 'next/link';
 const features = [
   {
     name: 'Amplify Your Product Reach',
-    description: 'Amplify awareness and developer interest in your product by utilizing our extensive network reach of over 90k developers',
+    description: 'We help amplify awareness and interest in your product by utilizing our extensive network reach of over 90k developers',
     icon: (
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
         <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15" />
@@ -88,7 +88,7 @@ export default function About() {
             variants={itemVariants}
             className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400"
           >
-            Developer DAO Ventures is a firm focused on accelerating the adoption of web3 and ai technologies.
+            Developer DAO Ventures is a firm focused on accelerating the adoption of Web3 and AI technologies.
             We partner with exceptional early stage founders who are building the infrastructure and applications that will power the decentralized future.
           </motion.p>
         </motion.div>

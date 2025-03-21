@@ -26,7 +26,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="mt-8 text-xl sm:text-2xl max-w-3xl mx-auto text-gray-600 dark:text-gray-400 leading-relaxed"
           >
-            Empowering the next generation of web3 and ai entrepreneurs through a global network of developers and support.
+            Empowering the next generation of Web3 and AI entrepreneurs through a global network of developers and support.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 20 }}

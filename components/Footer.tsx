@@ -54,7 +54,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-gray-600 dark:text-gray-400 text-sm">
-              Empowering the next generation of web3 and ai founders through a global network of developers and support.
+              Empowering the next generation of Web3 and AI founders through a global network of developers and support.
             </p>
             <div className="flex space-x-6">
               {navigation.social.map((item) => (
@@ -91,7 +91,7 @@ export default function Footer() {
         </div>
         <div className="mt-12 border-t border-gray-200 dark:border-gray-800 pt-8">
           <p className="text-base text-gray-500 dark:text-gray-400 xl:text-center">
-            &copy; {new Date().getFullYear()} Developer DAO Ventures. All rights reserved.
+            &copy; {new Date().getFullYear()} Developer DAO Foundation. All rights reserved.
           </p>
         </div>
       </div>
